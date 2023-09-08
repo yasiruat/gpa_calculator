@@ -1,0 +1,17 @@
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\bin\Debug\net7.0-windows\GPACalculator.exe
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\bin\Debug\net7.0-windows\GPACalculator.deps.json
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\bin\Debug\net7.0-windows\GPACalculator.runtimeconfig.json
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\bin\Debug\net7.0-windows\GPACalculator.dll
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\bin\Debug\net7.0-windows\GPACalculator.pdb
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.csproj.AssemblyReference.cache
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.Form1.resources
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.csproj.GenerateResource.cache
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.AssemblyInfoInputs.cache
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.AssemblyInfo.cs
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.csproj.CoreCompileInputs.cache
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.dll
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\refint\GPACalculator.dll
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.pdb
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\GPACalculator.genruntimeconfig.cache
+E:\Kelaniya\2nd Year\2nd Semester\CSCI 22042 - Visual Programming\GPACalculator\GPACalculator\obj\Debug\net7.0-windows\ref\GPACalculator.dll
